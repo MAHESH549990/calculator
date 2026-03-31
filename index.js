@@ -24,7 +24,8 @@ setTimeout(()=>{
 sumbtn.addEventListener("click",function(){
   let n1=Number(num1.value);
   let n2=Number(num2.value);
-  return res=n1+n2;
+  res=n1+n2;
+  return res;
 });
 
 subbtn.addEventListener("click",function(){
