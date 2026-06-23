@@ -26,8 +26,8 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. The ap
 calculator/
 │
 ├── index.html
-├── style.css
-├── script.js
+├── index.css
+├── calculater.js
 └── README.md
 
 
